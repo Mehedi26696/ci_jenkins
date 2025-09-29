@@ -14,7 +14,7 @@ This guide provides step-by-step instructions to install and set up Jenkins on W
 
 - Run the downloaded installer and follow the prompts.
 
-<img src="2a.png" alt="Jenkins Installer" width="600">
+<img src="2a.PNG" alt="Jenkins Installer" width="600">
 
 - When asked, specify the path to your JDK 17 or 21 installation (Jenkins requires one of these versions).
 
